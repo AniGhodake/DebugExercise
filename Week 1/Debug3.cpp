@@ -12,7 +12,7 @@ int main(){
     cin>>n;
     int i=0;
     while(i<n){
-        int j = i,count = 2*n-1,gaps=(n-i-1),k=1;                //  NO Success
+        int j = i,count = 2*n-1,gaps=(n-i-1),k=1;                //   PENDING
         while(k<gaps){
             cout<<" ";
             k = k + 1;
