@@ -7,6 +7,7 @@ N = 4
 321
 4321
 */
+
 #include<iostream>
 using namespace std;
 
