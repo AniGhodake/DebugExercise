@@ -1,3 +1,4 @@
+/*Debug the code. This code is trying to calculate area of a rectangle*/
 #include<iostream>
 using namespace std;
 
